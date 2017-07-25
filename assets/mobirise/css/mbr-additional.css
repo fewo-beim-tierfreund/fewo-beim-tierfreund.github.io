@@ -113,3 +113,21 @@
 #menu-n .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#header2-u H1 {
+  color: #faaf40;
+}
+#header2-u P {
+  color: #faaf40;
+}
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-s .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-s .mbr-navbar__hamburger {
+  color: #ffffff;
+}
