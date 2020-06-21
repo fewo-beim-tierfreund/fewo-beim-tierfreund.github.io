@@ -1,26 +1,28 @@
 {
   "settings": {
-    "name": "NewSite-03-06_0838",
-    "currentPage": "datenschutz.html",
+    "name": "Beim Tierfreund",
+    "currentPage": "preise.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
-    "versionPublish": "4.7.2",
+    "uniqCompNum": 40,
+    "versionPublish": "4.8.3",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen",
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen",
+        "title": "Home",
+        "meta_descr": "Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -220,9 +222,9 @@
     },
     "impressum.html": {
       "settings": {
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Impressum",
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Impressum",
-        "order": 3
+        "title": "Impressum",
+        "meta_descr": "Impressum",
+        "order": 2
       },
       "components": [
         {
@@ -374,8 +376,8 @@
     },
     "preise.html": {
       "settings": {
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Preise",
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Preise",
+        "title": "Preise",
+        "meta_descr": "Preise",
         "order": 4
       },
       "components": [
@@ -403,7 +405,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -414,9 +416,9 @@
           },
           "title1": "GANZJÄHRIG",
           "currency1": "€",
-          "price1": "44",
-          "period1": "für 2 Personen<br>pro Übernachtung",
-          "list1": "<p><b>Eine weitere Person zusätzlich 11 €</b></p><p><b>Buchbar ab 6 Übernachtungen</b></p>",
+          "price1": "49",
+          "period1": "für 2 Personen<br><br>pro Übernachtung",
+          "list1": "<p><b>Eine weitere Person zusätzlich 10 €</b></p><p><b>Buchbar ab 6 Übernachtungen</b></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title2": "BUSINESS",
           "currency2": "$",
@@ -457,7 +459,7 @@
             }
           },
           "_anchor": "content1-k",
-          "text": "<p><a href=\"https://www.fuessen.de/service/gaesteservice/kurbeitrag-in-fuessen.html\" style=\"background-color: rgb(255, 255, 255);\">Informationen zum Kurbeitrag</a><br></p><p></p>"
+          "text": "<p><br><a href=\"https://www.fuessen.de/service/gaesteservice/kurbeitrag-in-fuessen.html\" style=\"background-color: rgb(255, 255, 255);\">Informationen zum Kurbeitrag</a><br></p><p></p>"
         },
         {
           "_styles": {
@@ -552,8 +554,8 @@
     },
     "kontakt.html": {
       "settings": {
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Kontakt",
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Kontakt",
+        "title": "Kontakt",
+        "meta_descr": "Kontakt",
         "order": 5
       },
       "components": [
@@ -704,8 +706,8 @@
     },
     "anfahrt.html": {
       "settings": {
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Anfahrt",
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Anfahrt",
+        "title": "Anfahrt",
+        "meta_descr": "Anfahrt",
         "order": 6
       },
       "components": [
@@ -821,8 +823,8 @@
     },
     "sitemap.html": {
       "settings": {
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen &gt; Sitemap",
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Sitemap",
+        "title": "Sitemap",
+        "meta_descr": "Sitemap",
         "order": 7
       },
       "components": [
@@ -958,9 +960,9 @@
     },
     "datenschutz.html": {
       "settings": {
-        "meta_descr": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen > Datenschutz",
-        "title": "Ferienwohnung (Fewo) Beim Tierfreund in Füssen &gt; Datenschutz",
-        "order": 2
+        "meta_descr": "Datenschutz",
+        "title": "Datenschutz",
+        "order": 1
       },
       "components": [
         {
